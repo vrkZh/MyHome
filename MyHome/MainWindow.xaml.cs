@@ -27,6 +27,7 @@ namespace MyHome
         {
             InitializeComponent();
             log.Click += Log_Click;
+            
             //WinHelper.BlurOn(asas);
 
         }
